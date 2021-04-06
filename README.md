@@ -31,4 +31,6 @@
 #### Goals
 - I want to become a software developer
 
-
+#### Hobbies
+- Reading Newspaper
+- playing Volleyball
