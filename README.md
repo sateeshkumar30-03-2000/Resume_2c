@@ -4,8 +4,8 @@
 #### Personal Information:
 - Father Name:Ram Gopal Rao
 - Email Id   :sateeshkumarvarikuti@gmail.com
--Phone number:7702513978
--Address     :126-7-866,Gorantla,Guntur.
+- Phone number:7702513978
+- Address     :126-7-866,Gorantla,Guntur.
 
 #### Educational Details:
 **Btech_CSE**
